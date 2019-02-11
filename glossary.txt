@@ -1,0 +1,119 @@
+BedWars 起床战争 独立游戏 BW同
+CopsandCrims 警匪大战 独立游戏 Copsn'Crims;CvC;CaC同
+CrazyWalls 疯狂战墙 独立游戏 CW同
+KingoftheHill 山丘之王 独立游戏 KOTH同
+MurderMystery 密室杀手 独立游戏 MM同
+MegaWalls 超级战墙 独立游戏 MW同
+Paintball 彩弹射击 独立游戏 PB同
+Housing 家园世界 独立游戏 PlayerHousing同
+SmashHeroes 星碎英雄 独立游戏 SH;SuperSmash同
+SpeedUHC 速战极限生存 独立游戏 SUHC同
+SkyWars 空岛战争 独立游戏 SW同
+TurboKartRacers 方块赛车 独立游戏 TKR同
+VampireZ 吸血鬼 独立游戏 VZ同
+ArcadeGames 街机游戏 独立游戏 
+ThePit 天坑乱斗 独立游戏 
+Warlords 战争领主 独立游戏 
+SkyClash 空岛竞技场 独立游戏 
+Duels 决斗游戏 独立游戏 
+TheWalls 战墙 独立游戏 
+TNTGames 掘战游戏 独立游戏 
+QuakeCraft 未来射击 独立游戏 
+ArenaBrawl 竞技场乱斗 独立游戏 
+BuildBattle 建筑大师 独立游戏 
+UHCChampions 极限生存冠军 独立游戏 
+CapturetheWool 捕捉羊毛大作战 独立游戏 
+BUILDTEAM+ 建筑团队+ 会员等级 已弃用
+Default 默认 会员等级 
+VIP VIP 会员等级 
+VIP+ VIP+ 会员等级 
+MVP MVP 会员等级 
+MVP+ MVP+ 会员等级 
+MVP++ MVP++ 会员等级 
+HELPER 志愿者 会员等级 
+MOD 玩家管理 会员等级 
+ADMIN 管理 会员等级 
+BUILDTEAM 建筑团队 会员等级 
+YOUTUBE 主播 会员等级 
+PartyGames 派对游戏 街机游戏 1,2,3直接在后面跟数字
+TheBlockingDead 行尸走肉 街机游戏 BlockingDead同
+CreeperAttack 进击的爬行者 街机游戏 CA同
+GalaxyWars 星际大战 街机游戏 GW同
+HoleInTheWall 人体打印机 街机游戏 HITW同
+HideandSeek 躲猫猫 街机游戏 HnS同
+MiniWalls 迷你战墙 街机游戏 MW一般不指MiniWalls，见上方MegaWalls
+BountyHunters 赏金猎人 街机游戏 OITQ;OneintheQuiver同
+HypixelSays 我说你做 街机游戏 SimonSays同
+FarmHunt 农场躲猫猫 街机游戏 注意不要和HideandSeek混淆
+EnderSpleef 末影掘战 街机游戏 
+DragonWars 龙之战 街机游戏 
+Football 足球 街机游戏 
+PixelPainters 像素画师 街机游戏 
+SantaSays 圣诞我说你做 街机游戏 
+ThrowOut 乱棍之战 街机游戏 
+Zombies 僵尸末日 街机游戏 
+GrinchSimulator 圣诞怪杰模拟器 街机游戏 
+PVPRun PVP方块掘战 掘战游戏分支 PVP的V大小写按原文情况定
+TNTRun 方块掘战 掘战游戏分支 
+BowSpleef 掘一死箭 掘战游戏分支 
+TNTTag 烫手TNT 掘战游戏分支 
+TNTWizards 法师掘战 掘战游戏分支 
+Prototype 游戏实验室 游戏大厅 
+ClassicGames 经典游戏 游戏大厅 
+TournamentHall 竞赛殿堂 游戏大厅 
+Gold 金币 游戏内货币 g同，例:100g
+Coin 硬币 游戏内货币 
+Soul 灵魂 游戏内货币 
+ClassicToken 经典奖券 游戏内货币 
+Tears 泪滴 游戏内货币 
+HolidayLootChest 圣诞奖励箱 游戏内物品 Hypixel的唯一以Holiday命名的event即为圣诞
+LootChest 奖励箱 游戏内物品 
+SkyWarsLootChest 空岛战争奖励箱 游戏内物品 
+BedWarsLootChest 起床战争奖励箱 游戏内物品 
+DuelsLootChest 决斗游戏奖励箱 游戏内物品 
+MurderMysteryLootChest 密室杀手奖励箱 游戏内物品 
+LunarLootChest 春节奖励箱 游戏内物品 
+EasterLootChest 复活节奖励箱 游戏内物品 
+ChristmasLootChest 圣诞奖励箱 游戏内物品 
+GoldenLootChest 黄金奖励箱 游戏内物品 
+MysteryBox 神秘箱 游戏内物品 
+GoldenMysteryBox 黄金神秘箱 游戏内物品 
+HolidayMysteryBox 圣诞神秘箱 游戏内物品 
+HalloweenMysteryBox 万圣奖励箱 游戏内物品 
+NetworkBooster 线上加成 游戏内物品 
+PersonalBooster 个人加成 游戏内物品 
+Companions 伙伴 游戏内物品 
+Kit 职业套装 空岛战争功能 
+SoloNormal 单挑普通 空岛战争模式 
+SoloInsane 单挑疯狂 空岛战争模式 
+DoublesNormal 双人普通 空岛战争模式 Teams一般指DoublesTeams是已经弃用的名称
+DoublesInsane 双人疯狂 空岛战争模式 Teams一般指DoublesTeams是已经弃用的名称
+Mega 超级 空岛战争模式 
+Ranked 排位 空岛战争模式 
+Lab 实验室 空岛战争模式 Laboratory同
+TNTMadness 疯狂TNT 空岛战争实验室模式 
+Slime 史莱姆 空岛战争实验室模式 
+LuckyBlocks 幸运方块 空岛战争实验室模式 
+Huntersvs.Beasts 兽猎对决 空岛战争实验室模式 
+Rush 疾速空岛 空岛战争实验室模式 
+CorruptedGames 时空漩涡模式 空岛战争特殊子模式 
+DiscoMode 音乐模式 空岛战争特殊子模式 
+SoulWell 灵魂井 空岛战争内效用型标志物 
+AngelofDeath 死亡使者 空岛战争内效用型标志物 
+SkyWarsLevel 空岛战争等级 空岛战争功能 
+Prestige 精通 空岛战争等级阶段性标志 
+Solo 单挑模式 起床战争模式 
+Doubles 双人模式 起床战争模式 
+3v3v3v3 3v3v3v3 起床战争模式 
+4v4v4v4 4v4v4v4 起床战争模式 
+Capture 争夺模式 起床战争模式 
+Dreams 梦幻模式 起床战争模式 
+Rush 疾速起床 起床战争梦幻模式分支 
+Ultimate 超能力 起床战争梦幻模式分支 
+Castle 城池攻防战 起床战争梦幻模式分支 
+LuckyBlocks 幸运方块 起床战争梦幻模式分支 
+BedWarsLevel 起床战争等级 起床战争功能 
+Prestige 精通 起床战争等级阶段性标志 
+Kit 职业套装 闪电饥饿游戏功能 
+BlitzStar 闪电之星 闪电饥饿游戏功能 
+Deathmatch 死亡竞赛 闪电饥饿游戏功能 
